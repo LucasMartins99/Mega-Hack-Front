@@ -1,6 +1,6 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'http://192.168.112:3033',
+  baseURL: 'http://megahackdigital.com:3000',
 });
 export default api;
